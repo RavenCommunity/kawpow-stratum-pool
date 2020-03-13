@@ -1,3 +1,2 @@
-High performance Stratum poolserver in Node.js for [NOMP (Node Open Mining Portal)](https://github.com/foxer666/node-open-mining-portal)
+Use with NodeJS to build your own Ravencoin pool to be used after the kawpow fork.
 
-Current version: v1.0.8
